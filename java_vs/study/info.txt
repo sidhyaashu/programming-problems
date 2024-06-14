@@ -1,0 +1,11 @@
+write a java program Array list all methods and function and operations with explain and source code in single main
+
+
+write a custom program Array list with all methods and function and operations with explain and source code in single main
+
+
+step 1 : write a custom program on LinkedHashMap with all methods and functions.
+step 2: Add more additional & advanced  functionality. 
+step 3: Add at least 2 sorting and 2 searching custom method. 
+step 4:  Code should be in single main. 
+step 5: Explain and give source code 

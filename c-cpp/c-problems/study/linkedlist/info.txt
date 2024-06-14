@@ -1,0 +1,37 @@
+Types of Linkedlist
+
+1. Singly_Linked_List
+    (
+        Each node contains a data element and a pointer to the next node in the sequence.
+        Traversal is forward only, from the head (start) to the last node.
+    )
+2. Doubly_Linked_List
+    (
+        Each node contains a data element, a pointer to the next node, and a pointer to the previous node.
+        Traversal can be both forward and backward, as each node maintains links to both its next and previous nodes.
+    )
+3. Circular_Linked_List
+    (
+        In a singly circular linked list, the last node points back to the first node instead of NULL.
+        In a doubly circular linked list, the last node points back to the first node, and the first node points to the last node.
+    )
+4. Sorted_Linked_List
+    (
+        A linked list where nodes are arranged in ascending or descending order based on the value of their data elements.
+        Insertion operation maintains the sorted order.
+    )
+5. Sparse_Linked_List
+    (
+        Used to represent sparse matrices where most of the elements are zero.
+        Each node represents a non-zero element and contains row, column information along with the value.
+    )
+6. Multi_Level_Linked_List
+    (
+        A linked list where each node can point to another linked list.
+        Useful in representing hierarchical data structures like trees.
+    )
+7. Self_adjusting_Linked_List
+    (
+        A linked list where the frequently accessed elements move towards the head of the list.
+        Helps in improving the efficiency of accessing frequently accessed elements.
+    )

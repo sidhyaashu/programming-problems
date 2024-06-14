@@ -1,0 +1,26 @@
+1. Tree: A hierarchical data structure consisting of nodes connected by edges. The topmost node is called the root, and each node has zero or more child nodes.
+
+2. Binary_Tree: A tree in which each node has at most two children, typically referred to as the left child and the right child.
+
+3. Binary_Search_Tree (BST): A binary tree in which the left subtree of a node contains only nodes with values less than the node's value, and the right subtree contains only nodes with values greater than the node's value.
+
+4. Balanced_Tree: A tree in which the heights of the left and right subtrees of any node differ by at most one, ensuring optimal performance for various operations.
+
+Traversal:
+
+5. Pre_order_Traversal: Visit the root node first, followed by recursively traversing the left and right subtrees.
+6. In_order_Traversal: Recursively traverse the left subtree, visit the root node, and then recursively traverse the right subtree. Results in sorted order for binary search trees.
+7. Post_order_Traversal: Recursively traverse the left and right subtrees, and then visit the root node.
+8. Binary_Heap: A complete binary tree where every parent node is less than or equal to its children in a min heap or greater than or equal to its children in a max heap.
+
+9. Trie: Also known as a prefix tree, a trie is a tree-like data structure used to store a dynamic set of strings where each node represents a common prefix.
+
+10. AVL_Tree: A self-balancing binary search tree where the heights of the two child subtrees of any node differ by at most one, achieved by performing rotations during insertion and deletion.
+
+11. Red_Black_Tree: A self-balancing binary search tree with the properties that every node is either red or black, and no two adjacent red nodes are allowed. Maintains balance through color changes and rotations.
+
+12. B_tree: A self-balancing tree data structure that maintains sorted data and allows for efficient search, insertion, and deletion operations, commonly used in databases and file systems.
+
+13. Segment_Tree: A tree data structure used for storing information about intervals, or segments, of some linear data structure. It allows for efficient querying of intervals.
+
+14. Suffix_Tree: A tree-like data structure used in string processing to represent all suffixes of a given string. It enables fast pattern matching in strings.

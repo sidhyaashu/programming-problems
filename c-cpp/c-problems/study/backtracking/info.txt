@@ -1,0 +1,1 @@
+Backtracking is a technique used in algorithmic problem-solving to search for solutions to a problem by exploring all possible paths and then backtracking from dead ends. It is commonly used in problems such as finding all possible solutions, finding the best solution, or finding a specific solution that satisfies certain constraints.

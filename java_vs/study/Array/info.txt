@@ -1,0 +1,47 @@
+Accessing Elements:
+
+Accessing elements by index.
+Iterating through elements using loops (e.g., for loop, enhanced for loop).
+Modifying Elements:
+
+Changing the value of an element at a specific index.
+Array Length:
+
+Getting the length of the array using the length property.
+Sorting:
+
+Sorting elements in ascending or descending order using built-in methods like Arrays.sort().
+Searching:
+
+Searching for a specific element within the array.
+Finding the index of a specific element.
+Copying:
+
+Copying one array into another array using methods like System.arraycopy() or Arrays.copyOf().
+Concatenation:
+
+Concatenating two arrays to create a new array.
+Range Operations:
+
+Performing operations on a range of elements within the array.
+Conversion:
+
+Converting an array to other data structures like Lists or Sets.
+Equality Checking:
+
+Checking for equality between arrays.
+Fill Operations:
+
+Filling the entire array or a range of elements with a specific value.
+Stream Operations (Java 8 and above):
+
+Using stream operations like map(), filter(), reduce() on arrays.
+Parallel Operations (Java 8 and above):
+
+Parallelizing operations on arrays using parallel streams.
+Comparison:
+
+Comparing arrays lexicographically.
+ToString():
+
+Converting an array to a string representation using Arrays.toString().
